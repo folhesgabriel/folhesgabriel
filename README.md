@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-### :fire: My Stats :
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=folhesgabriel&theme=dark&background=000000)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=folhesgabriel&show_icons=true&bg_color=00000000)

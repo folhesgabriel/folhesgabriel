@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=folhesgabriel&show_icons=true&theme=tokyonight)
 
-- 🌱 Economics student at Universidade Federal do Pará (UFPA), brazil. 
+- 🌱 Economics grad student at Universidade Federal do Pará (UFPA), brazil. 
 - 🔭 I’m currently working on data pipelines and brazilian rural credit policies. 
 - 📫 How to reach me: pisagabriel09@gmail.com

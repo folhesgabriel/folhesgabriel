@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Economics grad student at Universidade Federal do Pará (UFPA) and Data Engineer at Basedosdados. 
 - 🔭 I’m currently working on data engineering connected to Amazon bioeconomy research. I am prototyping methodologies that bridge cutting-edge data engineering technology and processes to track bioeconomy agendas and stakeholders. 
 - 👯 I’m also looking to collaborate on exciting projects that involve proposing data-intensive solutions to critical challenges in the Amazon.
-- 📫 How to reach me: pisagabriel09@gmail.com
+- 📫 How to reach me: gabriel.pisa@uiro.io | pisagabriel09@gmail.com

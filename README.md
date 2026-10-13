@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 🌱 Economist, Data Engineer at Basedosdados and Consultant at [csalpha](https://github.com/csalpha-team) 
 - 🔭 I’m currently working on data engineering connected to Amazon bioeconomy research. I am prototyping methodologies that bridge cutting-edge data engineering technology and processes to track bioeconomy agendas and stakeholders. 
 - 👯 I’m also looking to collaborate on exciting projects that involve proposing data-intensive solutions to critical challenges in the Amazon.
-- 📫 How to reach me: gabriel.pisa@uiro.io | pisagabriel09@gmail.com
+- 📫 How to reach me: hello@folhesgabriel.io | gabriel.pisa@uiro.io 
